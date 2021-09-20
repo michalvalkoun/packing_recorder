@@ -20,4 +20,5 @@ This is a program for recording packing process of outgoing orders, to back-comp
     Recording stops
 
 5. Continue
+
     To end the program scan appropriate barcode
